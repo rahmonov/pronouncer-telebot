@@ -1,0 +1,20 @@
+{
+	"ImportPath": "PronouncerBot",
+	"GoVersion": "go1.10",
+	"GodepVersion": "v80",
+	"Packages": [
+		"./..."
+	],
+	"Deps": [
+		{
+			"ImportPath": "github.com/pkg/errors",
+			"Comment": "v0.8.0-12-g816c908",
+			"Rev": "816c9085562cd7ee03e7f8188a1cfd942858cded"
+		},
+		{
+			"ImportPath": "gopkg.in/tucnak/telebot.v2",
+			"Comment": "ver2.0-31-g743778f",
+			"Rev": "743778f69e925ca80651235174e188793e7ed653"
+		}
+	]
+}
